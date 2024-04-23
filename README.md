@@ -1,3 +1,7 @@
+# Module 8 Subscriber
+
+#### Muhammad Daffa Grahito Triharsanto - 2206820075 - Pemrograman Lanjut B
+
 ### What is **amqp**?
     
 amqp atau Advanced Message Queuing Protocol (AMQP) adalah sebuah open standard application layer protocol untuk message-oriented middleware. AMQP dirancang untuk mendukung komunikasi yang handal, asinkron, dan aman *software components* yang terpisah.
